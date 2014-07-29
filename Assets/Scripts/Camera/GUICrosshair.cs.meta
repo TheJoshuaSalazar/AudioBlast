@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 56627902e81b61142af8e8382cb364f4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - crossHair: {fileID: 2800000, guid: 5049a54c26db45543858414764f97ff5, type: 3}
+  - inputAudio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
